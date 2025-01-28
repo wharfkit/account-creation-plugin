@@ -6,7 +6,7 @@ import {mockSessionKitArgs, mockSessionKitOptions} from '@wharfkit/mock-data'
 import {AccountCreator} from '../../src/account-creator'
 import {AccountCreationPluginAnchor} from '$lib'
 
-suite('AccountCreationPluginGreymass', function () {
+suite('AccountCreationPluginAnchor', function () {
     let createAccountStub
 
     setup(function () {
